@@ -3,7 +3,7 @@
 Run following commands:
 
 ```sh
-yarn --pure-lockfile
-yarn build:ssr
-yarn serve:ssr
+bun install
+bun build:ssr
+bun serve:ssr
 ```
